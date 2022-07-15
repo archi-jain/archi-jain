@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Archi</h1>
 <h4 align="center">an engineering student at Rajasthan Technical University</h4>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=archi-jain&color=blue" alt="DiyaVj" /></div>
 </div>
 <h2>👩🏻‍💻My Tech Stack</h2>
 <p align="left">
@@ -31,7 +32,7 @@
       alt="javascript" width="40" height="40" /> </a> 
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a>
+      alt="mysql" width="40" height="40" /> </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a>
