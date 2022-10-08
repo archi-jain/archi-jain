@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Archi</h1>
 <h4 align="center">an engineering student at Rajasthan Technical University</h4>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=archi-jain&color=blue" alt="DiyaVj" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=archi-jain&color=blue" /></div>
 </div>
 <h2>👩🏻‍💻My Tech Stack</h2>
 <p align="left">
@@ -44,6 +44,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Archi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=archi-jain&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archi-jain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="archi-jain" height="192px"/>
 </p>
+
+<h2> Holopin badge </h2>
+[![@archijain's Holopin board](https://holopin.io/api/user/board?user=archijain)](https://holopin.io/@archijain)
 
 <h2>🤜🏻🤛🏻Connect with me on </h2>
 
