@@ -3,6 +3,7 @@
 <h4 align="center">an engineering student at Rajasthan Technical University</h4>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=archi-jain&color=blue" /></div>
 </div>
+
 <h2>👩🏻‍💻My Tech Stack</h2>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -45,8 +46,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archi-jain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="archi-jain" height="192px"/>
 </p>
 
-<h2> Holopin badge </h2>
-[![@archijain's Holopin board](https://holopin.io/api/user/board?user=archijain)](https://holopin.io/@archijain)
 
 <h2>🤜🏻🤛🏻Connect with me on </h2>
 
