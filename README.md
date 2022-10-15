@@ -45,7 +45,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Archi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=archi-jain&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archi-jain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="archi-jain" height="192px"/>
 </p>
+<h2> Holopin Badge</h2>
 
+<a> [![@archijain's Holopin board](https://holopin.me/archijain)](https://holopin.io/@archijain) </a>
 
 <h2>🤜🏻🤛🏻Connect with me on </h2>
 
